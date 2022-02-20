@@ -22,7 +22,6 @@ A Javascript library used to code the Front-end of a web application
 2. public folder
     - contains all static files of the project
     - do not want these to be processed by webpack
-    - cannot access files inside src eg from 
 3. index.html
     - React app is a SPA (single page application) with only one html page that is this index.html
 4. manifest.json
